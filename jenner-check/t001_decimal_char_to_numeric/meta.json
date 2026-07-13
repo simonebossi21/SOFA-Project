@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_decimal_char_to_numeric",
+  "source_file": "PROGETTO - pulizia dataset.sas",
+  "source_blob_sha": "b5e9ec260446183d839b32a4183d9c0e09e60b2a",
+  "source_commit": "00caf2b8ac5260db08de9f81747e22ba8684de91",
+  "notes": "step 0.1: comma->dot decimal fix (TRANWRD) then char->numeric conversion (ARRAY+INPUT); mock frame matches documented column schema (MMSE/CALC/ALB/VITD/HBING as comma-decimal character)"
+}

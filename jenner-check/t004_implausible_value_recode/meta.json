@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_implausible_value_recode",
+  "source_file": "PROGETTO - pulizia dataset.sas",
+  "source_blob_sha": "b5e9ec260446183d839b32a4183d9c0e09e60b2a",
+  "source_commit": "00caf2b8ac5260db08de9f81747e22ba8684de91",
+  "notes": "steps 3-4: sentinel (-1/-2) and implausible (weight<30, height<100) recode to missing plus calcium 880/100 rescale via ARRAY loop; mock triggers each rule"
+}

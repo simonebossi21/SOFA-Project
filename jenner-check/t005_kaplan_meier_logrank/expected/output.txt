@@ -1,0 +1,50 @@
+The LIFETEST Procedure    
+
+                             N
+--------------------  --------
+Total                       12
+Event                        8
+Censored                     4
+Median Survival Time  536.0000
+
+  Stratum: SOFA_gruppo = 1.0  
+
+                             N
+--------------------  --------
+Total                        5
+Event                        3
+Censored                     2
+Median Survival Time  917.0000
+
+               Product-Limit Survival Estimates                
+
+    Time  Survival  Std Error  Number at Risk  Number of Events
+--------  --------  ---------  --------------  ----------------
+442.0000    0.8000     0.1789               5                 1
+605.0000    0.6000     0.2191               4                 1
+917.0000    0.4000     0.2191               3                 1
+
+  Stratum: SOFA_gruppo = 2.0  
+
+                             N
+--------------------  --------
+Total                        7
+Event                        5
+Censored                     2
+Median Survival Time  105.0000
+
+               Product-Limit Survival Estimates                
+
+    Time  Survival  Std Error  Number at Risk  Number of Events
+--------  --------  ---------  --------------  ----------------
+ 46.0000    0.8571     0.1323               7                 1
+ 76.0000    0.7143     0.1707               6                 1
+ 80.0000    0.5714     0.1870               5                 1
+105.0000    0.4286     0.1870               4                 1
+467.0000    0.2857     0.1707               3                 1
+
+         Test of Equality over Strata          
+
+Test      Chi-Square        DF  Pr > Chi-Square
+--------  ----------  --------  ---------------
+log-rank      1.8963         1           0.1685

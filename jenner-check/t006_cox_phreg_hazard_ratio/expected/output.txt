@@ -1,0 +1,22 @@
+The PHREG Procedure        
+
+Criterion                     Value
+----------------------  -----------
+Number of Observations           12
+Number of Events                  8
+-2 LOG L                     30.669
+Convergence Status      0 Converged
+
+      Testing Global Null Hypothesis: BETA=0      
+
+Test              Chi-Square        DF  Pr > ChiSq
+----------------  ----------  --------  ----------
+Likelihood Ratio      1.9276         1      0.1650
+Wald                  1.7255         1      0.1890
+Score (Log-Rank)      1.8963         1      0.1685
+
+                                    Analysis of Maximum Likelihood Estimates                                     
+
+Parameter          DF  Estimate  Standard Error  Chi-Square  Pr > ChiSq  Hazard Ratio  95% Lower CL  95% Upper CL
+-----------  --------  --------  --------------  ----------  ----------  ------------  ------------  ------------
+SOFA_GRUPPO         1   1.11194         0.84649      1.7255      0.1890         3.040         0.579        15.975

@@ -1,0 +1,26 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA BASE
+
+NOTE: Processing inline DATALINES (12 lines)
+
+NOTE: Read 12 rows from DATALINES.
+NOTE: Wrote BASE (12 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA SOPRAVVIVENZA
+
+
+NOTE: Read 12 rows from BASE.
+NOTE: Wrote SOPRAVVIVENZA (12 rows, 8 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC FORMAT library=WORK
+
+NOTE: FORMAT GRUPPO defined (2 ranges).
+NOTE: PROC LIFETEST data=SOPRAVVIVENZA
+
+NOTE: Using Python lifelines version 0.30.3
+NOTE: ODS plot written: survival_strata.spec.json
+NOTE: PROC LIFETEST completed.

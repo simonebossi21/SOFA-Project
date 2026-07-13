@@ -1,0 +1,19 @@
+ID pazienti resi univoci (metodo FIRST. + 1)                                      
+
+                                                   The FREQ Procedure
+
+                         Cumulative
+PAZIENTE    Frequency    Frequency
+--------------------------------------
+10                  1            1
+11                  1            2
+12                  2            4
+13                  1            5
+                                          Dataset con identificativi corretti                                           
+
+  Obs  PAZIENTE  SOFAING
+    1        10        0
+    2        11        2
+    3        12        1
+    4        12        0
+    5        13        3

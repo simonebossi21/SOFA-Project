@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-13T08:06:27.432375+00:00",
+  "_captured_run_id": "r_e376cc16800f470eb1eb822bd697b24b",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote SOFA_ (5 rows, 8 columns).",
+    "NOTE: PROC PRINT completed: 5 observations printed, 6 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

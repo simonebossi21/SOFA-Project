@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-13T08:06:27.432375+00:00",
+  "_captured_run_id": "r_8cf2d09a9eb2414fb5182feba18c9dbd",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote SOFA_MANCANTI1 (4 rows, 9 columns).",
+    "NOTE: PROC PRINT completed: 4 observations printed, 9 variables"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}
