@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-13T08:06:27.432375+00:00",
+  "_captured_run_id": "r_465503291db141b1839cd444ac090dce",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: PROC LIFETEST completed.",
+    "NOTE: Using Python lifelines"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

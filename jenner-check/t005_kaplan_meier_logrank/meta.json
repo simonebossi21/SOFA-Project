@@ -1,0 +1,7 @@
+{
+  "bundle": "t005_kaplan_meier_logrank",
+  "source_file": "PROGETTO - pulizia dataset.sas",
+  "source_blob_sha": "b5e9ec260446183d839b32a4183d9c0e09e60b2a",
+  "source_commit": "00caf2b8ac5260db08de9f81747e22ba8684de91",
+  "notes": "Phase 2 step 1: Kaplan-Meier via PROC LIFETEST with STRATA + log-rank; SOPRAVVIVENZA frame (EVENT/TEMPO_EVENTO, SOFA=0 vs >0); mock survival frame"
+}

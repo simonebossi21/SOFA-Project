@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_date_epoch_correction",
+  "source_file": "PROGETTO - pulizia dataset.sas",
+  "source_blob_sha": "b5e9ec260446183d839b32a4183d9c0e09e60b2a",
+  "source_commit": "00caf2b8ac5260db08de9f81747e22ba8684de91",
+  "notes": "step 2: birth-date correction (INDEXC branch: char DD/MM/YY INTNX YEAR +100 for 1829->1929, Excel numeric serial + '30DEC1899'd epoch offset); mock carries both representations"
+}

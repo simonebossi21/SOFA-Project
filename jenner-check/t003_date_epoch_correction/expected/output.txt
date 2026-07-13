@@ -1,0 +1,7 @@
+Date di nascita corrette (1829->1929 e conversione epoca Excel)                             
+
+  Obs  PAZIENTE  _NULL_     NASCITA
+    1         1          01/01/1929
+    2         2          01/01/1929
+    3         3          24/11/1929
+    4         4          01/01/1930
